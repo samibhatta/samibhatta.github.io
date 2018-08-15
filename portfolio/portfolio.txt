@@ -1,0 +1,87 @@
+ 		 PROJECT1-TEXT PROCESSING COMMAND LINE DRIVEN PROGRAM
+
+This command line driven program interacts with the user only through its command
+line.Once it is launched, a command line driven program runs to completion without
+further user interaction.
+
+----------------
+EXAMPLE
+----------------
+
+The three valid command line forms for the program shall be:
+
+    1.  txtproc inputfile [ /C /H /L /O /R ]
+    2.  txtproc
+    3.  txtproc /?
+
+		PROJECT2-C++ PROGRAM THAT PLAYS GAME OF 26
+
+--------------
+The Game of 26
+--------------
+
+The Game of 26 is a card game played with one deck of shuffled cards.
+
+There are two players.
+
+A game consists of 7 hands and the player who has won the most hands, wins the
+game.  If a tie occurs, more hands are played until a clear winner emerges (this
+condition is often called "sudden death").
+
+Each player is dealt a hand of 5 cards.
+
+The number of points for each card is given in the followin table:
+
+    CARD     POINTS
+    -----    -------------------
+    "Ace"    Counts as 1  point
+    "2"      Counts as 2  points
+    "3"      Counts as 3  points
+    "4"      Counts as 4  points
+    "5"      Counts as 5  points
+    "6"      Counts as 6  points
+    "7"      Counts as 7  points
+    "8"      Counts as 8  points
+    "9"      Counts as 9  points
+    "10"     Counts as 10 points
+    "Jack"   Counts as 10 points
+    "Queen"  Counts as 10 points
+    "King"   Counts as 10 points
+
+The total points for a hand is found by adding together the points for each
+card.
+
+For example, if a hand consists of:
+
+    Ace of Diamonds
+    Ace of Spades
+    7 of Hearts
+    8 of Clubs
+    Jack of Hearts
+
+the point total for the hand is:  1 + 1 + 7 + 8 + 10 = 27.
+
+The objective for each hand is to construct a hand with a point total as close
+to 26 as possible.
+
+The winning hand belongs to the player that has a point total closest to 26.
+
+It does not matter if the total points in the hand are under or over 26, it is
+the closeness to 26 that matters.
+
+If there is a tie, no player wins the hand.
+
+PROJECT3-Database design and implementatioN, Stored program development, Database administration
+
+the database design including tables, fields, relationships and sample data;
+the scope of 3 store programs;
+the Database Administrators responsibilities for implementing and maintaining the database; i.e. monitoring the server, securing the database, and a backup and restore plan.
+EER diagram of the Capital College student organization database.
+Script for creating the database.
+Script for creating a view.
+
+PROJECT4- Geographic Information System-Map on Food Desert in Reno, Nevada using ArcMap
+
+PROJECT5- SchoolGroup - Volunteer web developer
+
+PROJECT6- Human Rights Connected- Volunteer web developer
